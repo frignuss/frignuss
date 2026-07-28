@@ -1,4 +1,4 @@
-# Hi, I am Frignuss
+# Hi, I am İbrahim Sadri
 
 I build product prototypes across full-stack web apps, AI-assisted tools, automation systems, and browser games. My recent work mixes PHP/MySQL applications, Python AI/video pipelines, JavaScript simulations, and game-like interactive experiences.
 
